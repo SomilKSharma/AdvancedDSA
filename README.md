@@ -1,2 +1,2 @@
 # AdvancedDSA
-Solution to advanced DSA questions, in Python language.Only two libraries have been used to solve the questions - the Collections libray and the heapq library.
+Solution to advanced DSA questions, in Python language. Libraries that have been used to solve the questions - the Collections libray, sys library and the heapq library.
