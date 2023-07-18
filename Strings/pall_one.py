@@ -8,7 +8,7 @@ Return 1 if it is possible to rearrange the characters of the string A such that
 class Solution:
     # @param A : string
     # @return an integer
-    def solve(self, A):
+    def solve(self,A):
 
         #create a hashmap out of the words of string A
         hashmap={}
