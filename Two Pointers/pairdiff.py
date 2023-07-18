@@ -13,7 +13,6 @@ class Solution:
 
         #sort the array
         A.sort()
-
         #get the start and end index
         start,end=0,1
 
